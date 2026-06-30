@@ -1,0 +1,456 @@
+canonical_identifier: bkk:krp/KR5c0386/tls/v1
+canonical_location: https://kanripo.org/bkk/KR5c0386/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 莊子集釋
+  identifiers:
+    krp: KR5c0386
+  tags:
+    kr-categories: KR5c
+    tls-internal:
+    - swl
+    - tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0386.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR5c0386_001-tls.yaml, hash: 'sha256:55a9e773648674b0ede2e6e8cfc10ed38af65006d63186f04f98ede70e94e611'}
+  - {seq: 2, filename: KR5c0386_002-tls.yaml, hash: 'sha256:7538766a3735f91edf0ecc1acee1006ba03cc7585d3257d74a3d5620657f8cdf'}
+  - {seq: 3, filename: KR5c0386_003-tls.yaml, hash: 'sha256:aca4d938be5f7119ca6e52fcc9ecce64bcd175f3a9faf63f6b56bd3437e89d3c'}
+  - {seq: 4, filename: KR5c0386_004-tls.yaml, hash: 'sha256:4faa3048ccbcdd00deea0b8f90d6b87728b4f86a6a347b4717f6286a7039b222'}
+  - {seq: 5, filename: KR5c0386_005-tls.yaml, hash: 'sha256:16d52a5cceac33e22473597cea60b45e65454d43e2d6d62691093181f6da1b47'}
+  - {seq: 6, filename: KR5c0386_006-tls.yaml, hash: 'sha256:389b3b7c60f1a23f70586216bce56ebe2fbd7fe31568236d3cf31ef14c623c90'}
+  - {seq: 7, filename: KR5c0386_007-tls.yaml, hash: 'sha256:d786105e784c5687d796bb7d31888c9ab85b159a8369d21d99883226302a643f'}
+  - {seq: 8, filename: KR5c0386_008-tls.yaml, hash: 'sha256:bb1efcec3243f37f3b513a13961c54278b68df53d40bcdaba362f596c18c04cd'}
+  - {seq: 9, filename: KR5c0386_009-tls.yaml, hash: 'sha256:98c7d948ea50dbe0b5481566dfe08641a1727788e40e62c9a257a65a9f27c949'}
+  - {seq: 10, filename: KR5c0386_010-tls.yaml, hash: 'sha256:c7e4b2d85b73472db39f5b5b2296a66d79e2395137ab37bb7d835f664d7db9a8'}
+  - {seq: 11, filename: KR5c0386_011-tls.yaml, hash: 'sha256:b4599c8cf788a7c6a1d94a50a7601bd82648dd845055e2b06c6e9d2bc03e12c8'}
+  - {seq: 12, filename: KR5c0386_012-tls.yaml, hash: 'sha256:a2b097c9daaab9fa300e682f98152f29cc8b7377be9afb3c25a2200be8ba383b'}
+  - {seq: 13, filename: KR5c0386_013-tls.yaml, hash: 'sha256:bff138fff96c00e18d75fb6159a45f2cb0ac7a1667c4fa9c80fb7e09787f8389'}
+  - {seq: 14, filename: KR5c0386_014-tls.yaml, hash: 'sha256:fd59237a712cab96342846b3a0f485aa316cbc1fe70ebb195de98b07489022c1'}
+  - {seq: 15, filename: KR5c0386_015-tls.yaml, hash: 'sha256:c59b9002ce65b0617bb1fdde08b6e8a276197caefcd8d08fa69abafc2a268591'}
+  - {seq: 16, filename: KR5c0386_016-tls.yaml, hash: 'sha256:f5e04dbf42c243e60eefb31f4e3b13215b81eead988e5ea927d0b8fbcfbddda7'}
+  - {seq: 17, filename: KR5c0386_017-tls.yaml, hash: 'sha256:ffd0aa936a31eb5bab11b4da40d604fed054128d182cd4dc76518ce5bd6272ac'}
+  - {seq: 18, filename: KR5c0386_018-tls.yaml, hash: 'sha256:a1d909733306649f493e9e19c7a0764c5afc040d65c3350b30c15c5b4e553a15'}
+  - {seq: 19, filename: KR5c0386_019-tls.yaml, hash: 'sha256:d03a81af8124e2f146898ce8ba139479ca19a203ac018c72c610b1fd708686d7'}
+  - {seq: 20, filename: KR5c0386_020-tls.yaml, hash: 'sha256:444808eb1c2ac64d75dc828131ccf0a8c3ae18f8bebf0bf0ced5464a9c1036b1'}
+  - {seq: 21, filename: KR5c0386_021-tls.yaml, hash: 'sha256:12cfa135303ecf1dedd34da277a0210036b859fe933e51b41129e8cfcb08ff4e'}
+  - {seq: 22, filename: KR5c0386_022-tls.yaml, hash: 'sha256:3b14eeea796be0733467f69a871988f2379ff097ef9ab078eee82c90293792b1'}
+  - {seq: 23, filename: KR5c0386_023-tls.yaml, hash: 'sha256:1f1f3cc60097c53b42e3123cdf0b2aedabaec30707da9746a1435e021f219146'}
+  - {seq: 24, filename: KR5c0386_024-tls.yaml, hash: 'sha256:cd8f550081178f5f1f36c453db38e8c60d660f8b94682c909ff5a3d5c8f206ad'}
+  - {seq: 25, filename: KR5c0386_025-tls.yaml, hash: 'sha256:ab04b84028c2f089fd0422b410d720749c2b3ca11e45f437885fc24a59e3ddc7'}
+  - {seq: 26, filename: KR5c0386_026-tls.yaml, hash: 'sha256:8985e68993e2abc87e199f71075fa746b474cfdb8281f7634b198ae8884192e7'}
+  - {seq: 27, filename: KR5c0386_027-tls.yaml, hash: 'sha256:4575170efadd4f773d9fca4afb79810cd48fbda3bc590b5540c9bb6cbe7ff563'}
+  - {seq: 28, filename: KR5c0386_028-tls.yaml, hash: 'sha256:77edc06e1859b93cd368dcec71c9f5149eede5be6402993948dc40a7c0f20c3f'}
+  - {seq: 29, filename: KR5c0386_029-tls.yaml, hash: 'sha256:3fa72c353b634479524207277a5cf9f38e39da1f8bc2ab2c4486fb4df7a9a2f7'}
+  - {seq: 30, filename: KR5c0386_030-tls.yaml, hash: 'sha256:753ce0a53d93221ad5f1c558450da9839cbdc82b2f367c0b380872d809953963'}
+  - {seq: 31, filename: KR5c0386_031-tls.yaml, hash: 'sha256:6494f9c2f4f8c02397bb634a68964a9cbdfe0336630b250d4429cf94e86cc351'}
+  - {seq: 32, filename: KR5c0386_032-tls.yaml, hash: 'sha256:f61f02a112b0b328fe81e45a4d6b51f9c58ab93aa4046bb5dd91c0d9c17c90ba'}
+  - {seq: 33, filename: KR5c0386_033-tls.yaml, hash: 'sha256:a4b4d65edd1b36b9072caecb633390ea6b087ed27e9ddbf1d4c1ec1785d076cc'}
+  - {seq: 34, filename: KR5c0386_034-tls.yaml, hash: 'sha256:821b4f552be4ca4e514893e32f299c6f2d2200fd08ccbc194a11f61758853e32'}
+  - {seq: 35, filename: KR5c0386_035-tls.yaml, hash: 'sha256:1cab2b2322079e1e5aceb7200d6ad8a28eaf3ca7bd33402eee49e0de6e0e20a9'}
+  - {seq: 36, filename: KR5c0386_036-tls.yaml, hash: 'sha256:dee40e96663716fac330eeeb451efc523ada09ee22f5707a9a0b2a07bbb47c75'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0386_001-tls.markers.yaml, hash: 'sha256:0b88827c7ab5de7a1275b59dce8791f7d35a1ffc375d207a97aef401f596bc44'}
+  - {seq: 2, role: markers, filename: assets/KR5c0386_002-tls.markers.yaml, hash: 'sha256:ea61b046bc174cb6bf86dd6572823530c5bd63ab7a71b791c0b9a54be6594d33'}
+  - {seq: 3, role: markers, filename: assets/KR5c0386_003-tls.markers.yaml, hash: 'sha256:a6fc52ff4ad7269b39bf40f149ffc24c4861494e415ffd0cb8d246142c143f65'}
+  - {seq: 4, role: markers, filename: assets/KR5c0386_004-tls.markers.yaml, hash: 'sha256:e21e3f85307c0ae1281c4bf5ace1330f482915985d2db78251f3b50cec81f346'}
+  - {seq: 5, role: markers, filename: assets/KR5c0386_005-tls.markers.yaml, hash: 'sha256:701b51e78a3ee3c71b32b9b912819ad65283fa3b927d4ef7e0f475881fca10fd'}
+  - {seq: 6, role: markers, filename: assets/KR5c0386_006-tls.markers.yaml, hash: 'sha256:c29193f6caa8f574d6ed3d73941e4561b67a32645da692d6e504c185cdde042f'}
+  - {seq: 7, role: markers, filename: assets/KR5c0386_007-tls.markers.yaml, hash: 'sha256:4da01c64f10143ba9bda03fd5756669c1582d83aee1dc4891091b918d1fae277'}
+  - {seq: 8, role: markers, filename: assets/KR5c0386_008-tls.markers.yaml, hash: 'sha256:b3cd8a15116102772a4d2307ee830897d0182442e2af4517b0d6531e2bb00d5d'}
+  - {seq: 9, role: markers, filename: assets/KR5c0386_009-tls.markers.yaml, hash: 'sha256:68c149a2c7180e8ba600ec45418352d72bd6c894807acc2a5f8f5f7f011750de'}
+  - {seq: 10, role: markers, filename: assets/KR5c0386_010-tls.markers.yaml, hash: 'sha256:0b3fa333b0d6fc62d47343f91bed4b6bfcec98498a65ef1b176f6ff60bbeb80f'}
+  - {seq: 11, role: markers, filename: assets/KR5c0386_011-tls.markers.yaml, hash: 'sha256:3170e999ec4efa2b434fd8c463662fed73252cb7600933f600437040a20a606e'}
+  - {seq: 12, role: markers, filename: assets/KR5c0386_012-tls.markers.yaml, hash: 'sha256:84d34ae7fced801f234071368cc228ddc6e31097121f748dd0a24bf2280c17f6'}
+  - {seq: 13, role: markers, filename: assets/KR5c0386_013-tls.markers.yaml, hash: 'sha256:43b3e59a75a6fec6cd6f5c239b7b8fecf24b25b02eaa7cfa371c5e228adbbebe'}
+  - {seq: 14, role: markers, filename: assets/KR5c0386_014-tls.markers.yaml, hash: 'sha256:b65a9811531cfbbc91cb4a5ac6996f62879e78834a06576a7bffccd921872f39'}
+  - {seq: 15, role: markers, filename: assets/KR5c0386_015-tls.markers.yaml, hash: 'sha256:7f1b1780966d4357f7e8a9185703f8e8adff544861740be3b718b80ca31e3b1a'}
+  - {seq: 16, role: markers, filename: assets/KR5c0386_016-tls.markers.yaml, hash: 'sha256:79d4fbcb23801b87afb42a8842c7441bb7e147546efe36a018a39336b202e363'}
+  - {seq: 17, role: markers, filename: assets/KR5c0386_017-tls.markers.yaml, hash: 'sha256:01c9da93c8c7994280972ea24d610a614b9097cb9859b7e9b03f73e9cc2f9135'}
+  - {seq: 18, role: markers, filename: assets/KR5c0386_018-tls.markers.yaml, hash: 'sha256:586a359e7d18f84ccb0acfac46c3e41449760fe3cbf169dc7ef25c80b11cf7f5'}
+  - {seq: 19, role: markers, filename: assets/KR5c0386_019-tls.markers.yaml, hash: 'sha256:6117fd01e8546217f373558e870896baf25d19e92bcb1a6e09e415b14ede9512'}
+  - {seq: 20, role: markers, filename: assets/KR5c0386_020-tls.markers.yaml, hash: 'sha256:186a01060a7e3a0da311eee4a61d16ab4d2b4862e66d3977729e8ba74b2b2756'}
+  - {seq: 21, role: markers, filename: assets/KR5c0386_021-tls.markers.yaml, hash: 'sha256:1cc6449ebd6917bd7cd40c099ed923679b9352ef3a2c170928c99ffbd31b19a8'}
+  - {seq: 22, role: markers, filename: assets/KR5c0386_022-tls.markers.yaml, hash: 'sha256:daca877a289326aa888b7b7024939e924fb488bdab35efe4f7dce427ee19691f'}
+  - {seq: 23, role: markers, filename: assets/KR5c0386_023-tls.markers.yaml, hash: 'sha256:d5df89640e8d7534a3ffc07a7d9cdaf276ec0ae52a1b69f4117f215502f98cdf'}
+  - {seq: 24, role: markers, filename: assets/KR5c0386_024-tls.markers.yaml, hash: 'sha256:843e721aee21a534e64da0c4e4a80f402f80c5d6799c9d85ae382d19f1a8366b'}
+  - {seq: 25, role: markers, filename: assets/KR5c0386_025-tls.markers.yaml, hash: 'sha256:5c4b7e0f5505a1c22be2fae80bb8d519a60a73cf08c7f0b0f7e49a734a3127ca'}
+  - {seq: 26, role: markers, filename: assets/KR5c0386_026-tls.markers.yaml, hash: 'sha256:ec06f18332d959154f4d8bfe721fc1337faae159de04a74447a432af92225e90'}
+  - {seq: 27, role: markers, filename: assets/KR5c0386_027-tls.markers.yaml, hash: 'sha256:a8d37cdf6c9b780f3a7830e7cbe7c31c410f7dc066934f676eb3e2016f605fbf'}
+  - {seq: 28, role: markers, filename: assets/KR5c0386_028-tls.markers.yaml, hash: 'sha256:c8c3f4a722ac37431ea6508b4c9cb0c95af28bcc109ec31868e00add0c4061a2'}
+  - {seq: 29, role: markers, filename: assets/KR5c0386_029-tls.markers.yaml, hash: 'sha256:dadd559f99d1b0b8e0d2a143d4fd9d9959b20fffd0fbdcb2a17cdd2dde48fb37'}
+  - {seq: 30, role: markers, filename: assets/KR5c0386_030-tls.markers.yaml, hash: 'sha256:5706e0d95926e8aa5d12426519e74309221aa8d6eb12057c7a978f2443556ff0'}
+  - {seq: 31, role: markers, filename: assets/KR5c0386_031-tls.markers.yaml, hash: 'sha256:c0abf7b6077e0a6b3274d89739bbe712b2dd49f4ff44857464316bf87b1a38e5'}
+  - {seq: 32, role: markers, filename: assets/KR5c0386_032-tls.markers.yaml, hash: 'sha256:65755276418813a9eac3b27f3ac678ffa58229976033bf94fd044d3690f8af83'}
+  - {seq: 33, role: markers, filename: assets/KR5c0386_033-tls.markers.yaml, hash: 'sha256:f8bb75f82fd144b05d444e49f75cee1945e4e3cb0672bf9516d630d2f2ad7c96'}
+  - {seq: 34, role: markers, filename: assets/KR5c0386_034-tls.markers.yaml, hash: 'sha256:530a1b9c468d0ee87be8f54ebd2f66923a2ae0bfafadf9e2b3147f937624023e'}
+  - {seq: 35, role: markers, filename: assets/KR5c0386_035-tls.markers.yaml, hash: 'sha256:b0e3333a0ad1ec68f1367b65db5111f6ce8f03cbdc56495c5ec81ec1ea592adb'}
+  - {seq: 36, role: markers, filename: assets/KR5c0386_036-tls.markers.yaml, hash: 'sha256:32ea3c10177c2c6e19afcb346baf796e90aa638e842fd88ccb9391990823d688'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0386_tls_001-h
+    span:
+    - front
+    - 0
+    - 441
+  label: 莊子序
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0386_tls_002-h
+    span:
+    - front
+    - 0
+    - 859
+  label: 莊子序
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0386_tls_003-h
+    span:
+    - front
+    - 0
+    - 469
+  label: 莊子集釋序
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0386_tls_004-h
+    span:
+    - body
+    - 0
+    - 21631
+  label: 內篇逍遙遊第一
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5c0386_tls_005-h
+    span:
+    - body
+    - 0
+    - 29523
+  label: 內篇齊物論第二
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0386_tls_006-h
+    span:
+    - body
+    - 0
+    - 6176
+  label: 內篇養生主第三
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0386_tls_007-h
+    span:
+    - body
+    - 0
+    - 21573
+  label: 內篇人間世第四
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0386_tls_008-h
+    span:
+    - body
+    - 0
+    - 13782
+  label: 內篇德充符第五
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5c0386_tls_009-h
+    span:
+    - body
+    - 0
+    - 25219
+  label: 內篇大宗師第六
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5c0386_tls_010-h
+    span:
+    - body
+    - 0
+    - 8777
+  label: 內篇應帝王第七
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR5c0386_tls_011-h
+    span:
+    - body
+    - 0
+    - 8805
+  label: 外篇駢拇第八
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR5c0386_tls_012-h
+    span:
+    - body
+    - 0
+    - 5272
+  label: 外篇馬蹄第九
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR5c0386_tls_013-h
+    span:
+    - body
+    - 0
+    - 10145
+  label: 外篇胠篋第十
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR5c0386_tls_014-h
+    span:
+    - body
+    - 0
+    - 13191
+  label: 外篇在宥第十一
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR5c0386_tls_015-h
+    span:
+    - body
+    - 0
+    - 19153
+  label: 外篇天地第十二
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR5c0386_tls_016-h
+    span:
+    - body
+    - 0
+    - 12252
+  label: 外篇天道第十三
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR5c0386_tls_017-h
+    span:
+    - body
+    - 0
+    - 14922
+  label: 外篇天運第十四
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR5c0386_tls_018-h
+    span:
+    - body
+    - 0
+    - 4229
+  label: 外篇刻意第十五
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR5c0386_tls_019-h
+    span:
+    - body
+    - 0
+    - 4944
+  label: 外篇繕性第十六
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR5c0386_tls_020-h
+    span:
+    - body
+    - 0
+    - 19464
+  label: 外篇秋水第十七
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR5c0386_tls_021-h
+    span:
+    - body
+    - 0
+    - 8145
+  label: 外篇至樂第十八
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR5c0386_tls_022-h
+    span:
+    - body
+    - 0
+    - 13181
+  label: 外篇達生第十九
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR5c0386_tls_023-h
+    span:
+    - body
+    - 0
+    - 11686
+  label: 外篇山木第二十
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR5c0386_tls_024-h
+    span:
+    - body
+    - 0
+    - 9989
+  label: 外篇田子方第二十一
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR5c0386_tls_025-h
+    span:
+    - body
+    - 0
+    - 13396
+  label: 外篇知北遊第二十二
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR5c0386_tls_026-h
+    span:
+    - body
+    - 0
+    - 17831
+  label: 雜篇庚桑楚第二十三
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR5c0386_tls_027-h
+    span:
+    - body
+    - 0
+    - 20997
+  label: 雜篇徐無鬼第二十四
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR5c0386_tls_028-h
+    span:
+    - body
+    - 0
+    - 15790
+  label: 雜篇則陽第二十五
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR5c0386_tls_029-h
+    span:
+    - body
+    - 0
+    - 9427
+  label: 雜篇外物第二十六
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR5c0386_tls_030-h
+    span:
+    - body
+    - 0
+    - 5965
+  label: 雜篇寓言第二十七
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR5c0386_tls_031-h
+    span:
+    - body
+    - 0
+    - 9703
+  label: 雜篇讓王第二十八
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR5c0386_tls_032-h
+    span:
+    - body
+    - 0
+    - 10414
+  label: 雜篇盜跖第二十九
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR5c0386_tls_033-h
+    span:
+    - body
+    - 0
+    - 2404
+  label: 雜篇說劍第三十
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR5c0386_tls_034-h
+    span:
+    - body
+    - 0
+    - 4552
+  label: 雜篇漁父第三十一
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR5c0386_tls_035-h
+    span:
+    - body
+    - 0
+    - 10580
+  label: 雜篇列禦寇第三十二
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR5c0386_tls_036-h
+    span:
+    - body
+    - 0
+    - 18972
+  label: 雜篇天下第三十三
+  type: section
+  level: 1
+hash: sha256:063a89d1156ade79809c53dbdd38e8683ef9df0db3b768edae0ae5f2be39dbec
