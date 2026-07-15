@@ -46,6 +46,7 @@ markers:
   - {type: 'tls:seg', offset: 101, content: '', id: KR5c0386_tls_001-2a.18}
   - {type: punctuation, offset: 107, content: ，, id: KR5c0386_tls_001-bkkpn18}
   - {type: 'tls:seg', offset: 107, content: '', id: KR5c0386_tls_001-2a.19}
+  - {type: substitution, offset: 114, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 120, content: ！, id: KR5c0386_tls_001-bkkpn19}
   - {type: 'tls:seg', offset: 120, content: '', id: KR5c0386_tls_001-2a.20}
   - {type: punctuation, offset: 133, content: 。, id: KR5c0386_tls_001-bkkpn20}
@@ -86,8 +87,10 @@ markers:
   - {type: 'tls:seg', offset: 213, content: '', id: KR5c0386_tls_001-3a.16}
   - {type: punctuation, offset: 222, content: ；, id: KR5c0386_tls_001-bkkpn36}
   - {type: 'tls:seg', offset: 222, content: '', id: KR5c0386_tls_001-3a.17}
+  - {type: substitution, offset: 227, original: 澹, replacement: 淡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20177}}
   - {type: punctuation, offset: 229, content: ，, id: KR5c0386_tls_001-bkkpn37}
   - {type: 'tls:seg', offset: 229, content: '', id: KR5c0386_tls_001-3a.18}
+  - {type: substitution, offset: 232, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 236, content: （一）, id: KR5c0386_tls_001-bkkpn38}
   - {type: punctuation, offset: 236, content: 。, id: KR5c0386_tls_001-bkkpn39}
   - {type: 'tls:seg', offset: 236, content: '', id: KR5c0386_tls_001-3a.19}
@@ -133,6 +136,8 @@ markers:
   - {type: 'tls:seg', offset: 336, content: '', id: KR5c0386_tls_001-4a.12}
   - {type: punctuation, offset: 339, content: ，, id: KR5c0386_tls_001-bkkpn59}
   - {type: 'tls:seg', offset: 339, content: '', id: KR5c0386_tls_001-4a.13}
+  - {type: substitution, offset: 340, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
+  - {type: substitution, offset: 342, original: 怳, replacement: 恍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17020}}
   - {type: punctuation, offset: 346, content: 。, id: KR5c0386_tls_001-bkkpn60}
   - {type: 'tls:seg', offset: 346, content: '', id: KR5c0386_tls_001-4a.14}
   - {type: punctuation, offset: 352, content: ，, id: KR5c0386_tls_001-bkkpn61}
@@ -143,6 +148,8 @@ markers:
   - {type: 'tls:seg', offset: 362, content: '', id: KR5c0386_tls_001-4a.17}
   - {type: punctuation, offset: 366, content: ，, id: KR5c0386_tls_001-bkkpn64}
   - {type: 'tls:seg', offset: 366, content: '', id: KR5c0386_tls_001-4a.18}
+  - {type: substitution, offset: 366, original: 彷, replacement: 倣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20198}}
+  - {type: substitution, offset: 367, original: 彿, replacement: 佛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16530}}
   - {type: punctuation, offset: 371, content: ，, id: KR5c0386_tls_001-bkkpn65}
   - {type: 'tls:seg', offset: 371, content: '', id: KR5c0386_tls_001-4a.19}
   - {type: punctuation, offset: 382, content: ，, id: KR5c0386_tls_001-bkkpn66}
@@ -170,4 +177,4 @@ markers:
   - {type: xml-element, offset: 441, content: '', id: KR5c0386_tls_001-5a_end, name: p, role: close, attrs: {'xml:id': KR5c0386_tls_001-5a, type: note}}
   body: []
   back: []
-hash: sha256:f3c713efb0a59da6bbbd7b73b2981907d7554512a2d3dc69b63552bf6474192c
+hash: sha256:fbd23c1b7bc512b17d75f43772571fc5d824f72d2b55b41d95a7835205c0318c
