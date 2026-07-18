@@ -7371,6 +7371,7 @@ markers:
   - {type: punctuation, offset: 13142, content: 【釋文】, id: KR5c0386_tls_020-bkkpn3490}
   - {type: punctuation, offset: 13142, content: 《, id: KR5c0386_tls_020-bkkpn3491}
   - {type: punctuation, offset: 13142, content: (, id: KR5c0386_tls_020-bkkpn3492}
+  - {type: voice, offset: 13142, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 13144, content: ), id: KR5c0386_tls_020-bkkpn3493}
   - {type: punctuation, offset: 13144, content: 》, id: KR5c0386_tls_020-bkkpn3494}
   - {type: punctuation, offset: 13147, content: ，, id: KR5c0386_tls_020-bkkpn3495}
@@ -11193,4 +11194,4 @@ markers:
   - {type: 'tls:seg-end', offset: 19464, content: '', id: KR5c0386_tls_020-434a.1_end, seg_type: comm}
   - {type: xml-element, offset: 19464, content: '', id: KR5c0386_tls_020-434a_end, name: p, role: close, attrs: {'xml:id': KR5c0386_tls_020-434a, type: note}}
   back: []
-hash: sha256:805ac2729c5871f44f9be6c1e922831870b9c4693563479604cec7d44aa84740
+hash: sha256:114b247dc615df8565ff2066fac5744537153a490162d9606ea035868245f35d

@@ -6748,6 +6748,7 @@ markers:
   - {type: 'tls:seg-start', offset: 11299, content: '', id: KR5c0386_tls_008-307a.1, seg_type: root, member_ids: [KR5c0386_tls_008-307a.1, KR5c0386_tls_008-307a.2, KR5c0386_tls_008-307a.3, KR5c0386_tls_008-307a.4, KR5c0386_tls_008-307a.5, KR5c0386_tls_008-307a.6, KR5c0386_tls_008-307a.7, KR5c0386_tls_008-307a.8, KR5c0386_tls_008-307a.9, KR5c0386_tls_008-307a.10, KR5c0386_tls_008-307a.11, KR5c0386_tls_008-307a.12, KR5c0386_tls_008-307a.13, KR5c0386_tls_008-307a.14, KR5c0386_tls_008-307a.15, KR5c0386_tls_008-307a.16, KR5c0386_tls_008-307a.17, KR5c0386_tls_008-307a.18, KR5c0386_tls_008-307a.19, KR5c0386_tls_008-307a.20, KR5c0386_tls_008-307a.21, KR5c0386_tls_008-307a.22, KR5c0386_tls_008-307a.23, KR5c0386_tls_008-307a.24, KR5c0386_tls_008-307a.25, KR5c0386_tls_008-307a.26, KR5c0386_tls_008-307a.27, KR5c0386_tls_008-307a.28, KR5c0386_tls_008-307a.29, KR5c0386_tls_008-307a.30, KR5c0386_tls_008-307a.31, KR5c0386_tls_008-307a.32, KR5c0386_tls_008-307a.33, KR5c0386_tls_008-307a.34, KR5c0386_tls_008-307a.35, KR5c0386_tls_008-307a.36]}
   - {type: 'tls:seg', offset: 11299, content: '', id: KR5c0386_tls_008-307a.1}
   - {type: punctuation, offset: 11303, content: ), id: KR5c0386_tls_008-bkkpn3154}
+  - {type: 'voice:problem', offset: 11303, length: 0, id: KR5c0386_bkk_008-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 11303 with no matching '('}
   - {type: substitution, offset: 11305, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 11309, content: ，, id: KR5c0386_tls_008-bkkpn3155}
   - {type: 'tls:seg', offset: 11309, content: '', id: KR5c0386_tls_008-307a.2}
@@ -8362,4 +8363,4 @@ markers:
   - {type: 'tls:seg-end', offset: 13782, content: '', id: KR5c0386_tls_008-380a.2_end, seg_type: comm}
   - {type: xml-element, offset: 13782, content: '', id: KR5c0386_tls_008-380a_end, name: p, role: close, attrs: {'xml:id': KR5c0386_tls_008-380a, type: note}}
   back: []
-hash: sha256:c3d39a0aa0a87a72722b67bc5792e396ab7f26fbba9d6b9c4317b60d6954bead
+hash: sha256:c736f432325e4ff0b221fe3f98885a29e444fe853eeee7dbcb16aa9440eef5fb
