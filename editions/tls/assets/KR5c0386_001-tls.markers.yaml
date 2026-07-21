@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR5c0386/tls/v1/markers/1
 seq: 1
 markers:
-  front:
+  body:
   - {type: xml-element, offset: 3, content: '', id: KR5c0386_tls_001-1a, name: p, role: open, attrs: {'xml:id': KR5c0386_tls_001-1a}}
   - {type: 'tls:seg-start', offset: 3, content: '', id: KR5c0386_tls_001-1a.1, seg_type: root, member_ids: [KR5c0386_tls_001-1a.1]}
   - {type: 'tls:seg', offset: 3, content: '', id: KR5c0386_tls_001-1a.1}
@@ -168,6 +168,5 @@ markers:
   - {type: punctuation, offset: 441, content: 。, id: KR5c0386_tls_001-bkkpn76}
   - {type: 'tls:seg-end', offset: 441, content: '', id: KR5c0386_tls_001-5a.3_end, seg_type: comm}
   - {type: xml-element, offset: 441, content: '', id: KR5c0386_tls_001-5a_end, name: p, role: close, attrs: {'xml:id': KR5c0386_tls_001-5a, type: note}}
-  body: []
   back: []
-hash: sha256:0b88827c7ab5de7a1275b59dce8791f7d35a1ffc375d207a97aef401f596bc44
+hash: sha256:e493c15d574f12cc24afda462f988be001040af884c6a440b4d0b6addb7cc45e

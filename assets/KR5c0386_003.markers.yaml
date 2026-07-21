@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR5c0386/bkk/v1/markers/3
 seq: 3
 markers:
-  front:
+  body:
   - {type: xml-element, offset: 5, content: '', id: KR5c0386_tls_003-1a, name: p, role: open, attrs: {'xml:id': KR5c0386_tls_003-1a}}
   - {type: 'tls:seg-start', offset: 5, content: '', id: KR5c0386_tls_003-1a.1, seg_type: root, member_ids: [KR5c0386_tls_003-1a.1, KR5c0386_tls_003-1a.2, KR5c0386_tls_003-1a.3, KR5c0386_tls_003-1a.4, KR5c0386_tls_003-1a.5, KR5c0386_tls_003-1a.6, KR5c0386_tls_003-1a.7, KR5c0386_tls_003-1a.8, KR5c0386_tls_003-1a.9, KR5c0386_tls_003-1a.10, KR5c0386_tls_003-1a.11]}
   - {type: 'tls:seg', offset: 5, content: '', id: KR5c0386_tls_003-1a.1}
@@ -183,6 +183,5 @@ markers:
   - {type: punctuation, offset: 469, content: 。, id: KR5c0386_tls_003-bkkpn79}
   - {type: 'tls:seg-end', offset: 469, content: '', id: KR5c0386_tls_003-6a.14_end, seg_type: root}
   - {type: xml-element, offset: 469, content: '', id: KR5c0386_tls_003-6a_end, name: p, role: close, attrs: {'xml:id': KR5c0386_tls_003-6a}}
-  body: []
   back: []
-hash: sha256:26f09297e144be8f1e3ab87e58d395180a235a8f20dc5156278362aa0a51741a
+hash: sha256:15c14cbda1b459babf230009ccc86251a319ed7b1b1bb5441f3008abe168db5d

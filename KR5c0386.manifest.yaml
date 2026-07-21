@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR5c0386_001.yaml, hash: 'sha256:a75f8c4e58bfd4988f326889c41e6bf53fc86fc78b4a2cceb2f42fb15552ee9a'}
-  - {seq: 2, filename: KR5c0386_002.yaml, hash: 'sha256:22f34da4f003e902b1cb7d82f22dcc5175e664929b4d19f877e6dca4c053f3c9'}
-  - {seq: 3, filename: KR5c0386_003.yaml, hash: 'sha256:3c40ee28cff076e2f9409339e3fd506831483ec212aa400b768754ed484fb3bf'}
+  - {seq: 1, filename: KR5c0386_001.yaml, hash: 'sha256:2b279319b70cd4e8296bde8a38e0a6fa1b4b8d0dd2a579beb9dc34a287584b19'}
+  - {seq: 2, filename: KR5c0386_002.yaml, hash: 'sha256:091f7fede533fa47a54d9284e188eda70860130f5a37bcd61756ea2ab40860a3'}
+  - {seq: 3, filename: KR5c0386_003.yaml, hash: 'sha256:b04595693a2af9d266120b44c7a1114fc71bd0ffe724bf8aec70c730c11acaaf'}
   - {seq: 4, filename: KR5c0386_004.yaml, hash: 'sha256:cc40f9d311c62206424c211f345f7dedb5edccba4eb1775ad583ae8b55b42a46'}
   - {seq: 5, filename: KR5c0386_005.yaml, hash: 'sha256:5b2cf2e562e4dd4640f78d0acfde25c546d2df04a5a80b22e9cd8c52473eb2d2'}
   - {seq: 6, filename: KR5c0386_006.yaml, hash: 'sha256:f4891664445710513f25122ddd17ead82de4795fd0473fb3e66d47f7c5c17ced'}
@@ -54,9 +54,9 @@ assets:
   - {seq: 35, filename: KR5c0386_035.yaml, hash: 'sha256:3b93c334ae3b1a3340cd1e8803bdf32eaf49291435d27c70a4eac6e5d5701053'}
   - {seq: 36, filename: KR5c0386_036.yaml, hash: 'sha256:f4ea8814df2f9657ab06ec08037b938ab36b1574986523c9ee80d076498d5458'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR5c0386_001.markers.yaml, hash: 'sha256:fbd23c1b7bc512b17d75f43772571fc5d824f72d2b55b41d95a7835205c0318c'}
-  - {seq: 2, role: markers, filename: assets/KR5c0386_002.markers.yaml, hash: 'sha256:6de230ff5e176d1ed0e4d031e72d379d8d548bc4f27e2a856169a8ce5fcd3b66'}
-  - {seq: 3, role: markers, filename: assets/KR5c0386_003.markers.yaml, hash: 'sha256:26f09297e144be8f1e3ab87e58d395180a235a8f20dc5156278362aa0a51741a'}
+  - {seq: 1, role: markers, filename: assets/KR5c0386_001.markers.yaml, hash: 'sha256:4d5590d2c4f6b97a10966141a219ae417787638d99a844ae8b664834dfc9e42e'}
+  - {seq: 2, role: markers, filename: assets/KR5c0386_002.markers.yaml, hash: 'sha256:86c216886f1263a830911731c4a21867ac02a077dce0a593bf46d75fdfa713c0'}
+  - {seq: 3, role: markers, filename: assets/KR5c0386_003.markers.yaml, hash: 'sha256:15c14cbda1b459babf230009ccc86251a319ed7b1b1bb5441f3008abe168db5d'}
   - {seq: 4, role: markers, filename: assets/KR5c0386_004.markers.yaml, hash: 'sha256:2ded44787fdb61b4b54f5f0627439aa55fd5da554b2c83f20097e7afe4c1ff3c'}
   - {seq: 5, role: markers, filename: assets/KR5c0386_005.markers.yaml, hash: 'sha256:89e7c20f15e64292671f49f64702db93d59876df2ff8d4c8a42d070eeac8e491'}
   - {seq: 6, role: markers, filename: assets/KR5c0386_006.markers.yaml, hash: 'sha256:9983445a8d94d02a5e31ea30dfa35ba3310d46515c280937308c08f79f79dd78'}
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 1
     marker_id: KR5c0386_tls_001-h
     span:
-    - front
+    - body
     - 0
     - 441
   label: 莊子序
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 2
     marker_id: KR5c0386_tls_002-h
     span:
-    - front
+    - body
     - 0
     - 859
   label: 莊子序
@@ -115,7 +115,7 @@ table_of_contents:
     seq: 3
     marker_id: KR5c0386_tls_003-h
     span:
-    - front
+    - body
     - 0
     - 469
   label: 莊子集釋序
@@ -451,7 +451,7 @@ table_of_contents:
   label: 雜篇天下第三十三
   type: section
   level: 1
-hash: sha256:3b0408b9652d61529288232b9a23fde6872bd0c35d2d02d790990dd39d668ac1
+hash: sha256:72e2346beef58d10ac35753df5c8611e2829a6b4154aa6a5872cf9c3be7e4066
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
